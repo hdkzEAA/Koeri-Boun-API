@@ -1,7 +1,7 @@
 # Koeri-Boun-API
 
 It serves to pull information about recent earthquakes through the Koeri Boun website.
-Koeri Boun : http://www.koeri.boun.edu.tr/scripts/lst4.asp
+<br>Koeri Boun : http://www.koeri.boun.edu.tr/scripts/lst4.asp
 
 
 
