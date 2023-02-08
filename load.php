@@ -1,9 +1,5 @@
 <?php
 
-
-
-include 'db-funcs/load.php'; // veritabanı bağlantı bilgileri
-
 include 'func1.php'; // uzak siteden veri çekme fonksiyonu
 include 'func2.php'; // çekilen text verisini düzgün bir php array fornatına dönüştürme fonksiyonu
 
